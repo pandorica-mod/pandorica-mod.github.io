@@ -1,10 +1,11 @@
-## Summary
+## Pandorica
+### Summary
 A Nether improvement mod for Minecraft 1.14+
 
-## Contributing
+### Contributing
 - You can contribute ideas at [our Discord](https://discord.gg/ftzwyrA) or through [issues](https://github.com/pandorica-mod/pandorica/issues) and [pull requests](https://github.com/pandorica-mod/pandorica/pulls).
 
-## Features
+### Features
 - **Blocks**
     - *Eruption Block*
         - Crafted with 2 *Crusted Magma* and 2 *Netherrack* in a chequerboard pattern
