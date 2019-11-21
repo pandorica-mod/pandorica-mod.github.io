@@ -1,4 +1,3 @@
-## Pandorica
 ### Summary
 A Nether improvement mod for Minecraft 1.14+
 
