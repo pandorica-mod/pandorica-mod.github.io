@@ -1,4 +1,3 @@
-### Summary
 A few more Nether features mod for Minecraft 1.16+
 
 ### Contributing
